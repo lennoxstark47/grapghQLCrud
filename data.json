@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "johndoe@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Brad Traversy",
+      "email": "bradT@gmail.com",
+      "age": 45
+    },
+    {
+      "id": "3",
+      "name": "Twisam Stark",
+      "email": "lennoxstark@gmail.com",
+      "age": 25
+    },
+    {
+      "name": "Twisam Haldar",
+      "email": "twisam@gmail.com",
+      "age": 25,
+      "id": "YCOGBrl"
+    }
+  ]
+}
